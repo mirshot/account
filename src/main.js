@@ -11,8 +11,6 @@ Vue.use(VueMomentJS, moment);
 
 Vue.config.productionTip = false;
 
-Vue
-
 new Vue({
   router,
   store,
