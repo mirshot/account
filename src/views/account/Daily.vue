@@ -1,6 +1,10 @@
 <template>
   <div class="daily">
     <Header/>
+
+    <div class="info">
+      
+    </div>
   </div>
 </template>
 
