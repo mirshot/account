@@ -13,3 +13,10 @@ export default{
   }
 }
 </script>
+
+<style>
+  .daily{
+    width:100%;
+  }
+
+</style>
