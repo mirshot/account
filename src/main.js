@@ -11,6 +11,8 @@ Vue.use(VueMomentJS, moment);
 
 Vue.config.productionTip = false;
 
+console.log('merge');
+
 new Vue({
   router,
   store,
